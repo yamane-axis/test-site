@@ -3,7 +3,7 @@ import * as React from "react"
 // markup
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
+    <main>
       <title>山根のテストサイトです。</title>
     </main>
   )
