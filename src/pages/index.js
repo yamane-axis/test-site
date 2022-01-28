@@ -4,7 +4,8 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <main>
-      <title>山根のテストサイトです。</title>
+      <title>テストサイト</title>
+      <div>山根のテストサイトです。</div>
     </main>
   )
 }
